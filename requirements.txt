@@ -1,0 +1,16 @@
+streamlit
+pandas
+librosa
+hydralit_components
+pillow
+numpy
+pydub
+matplotlib
+keyphrase_vectorizers
+pydeck
+scipy
+ffmpeg
+graphviz
+SpeechRecognition
+gmplot
+transformers
